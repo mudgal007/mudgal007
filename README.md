@@ -16,7 +16,7 @@
 - 🔧 I’m a **Full-Stack Engineer** building scalable, high-performance systems with **Python, JavaScript,TypeScript**, and modern frameworks like **FastAPI, React, Next.js**.  
 - 🤖 Recently focused on learning **AI, ML, and forecasting models** — hybrid architectures & LSTM ensembles.  
 - 🚀 Passionate about **performance optimization, system design, and predictive modeling**.  
-- 🤝 Open to **collaboration** in AI research, automation, and **data-driven products**.
+- 🤝 Open to **collaboration** on Full Stack Applications, AI research, automation, and **data-driven products**.
 
 ---
 
